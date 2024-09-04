@@ -164,6 +164,12 @@ python -m unittest discover -s tests
 1. 访问应用：在浏览器中打开 `http://localhost:7860`。
 2. 根据界面提示输入数据，生成方案或结果。
 3. 下载生成的文件或查看结果。
+4. 下载模板文件：
+![](https://telegraph-image-9gk.pages.dev/file/7ade745114d186cdbc017.gif)
+5. 在线输入SKU信息计算：
+![](https://telegraph-image-9gk.pages.dev/file/de9fb88f96ece2dfcf53e.gif)
+6. 批量导入SKU信息进行计算：
+![](https://telegraph-image-9gk.pages.dev/file/d49a6cdc160610be71f31.gif)
 
 ### 提交 Issue
 

@@ -1,2 +1,20 @@
-.dist
 venv
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.env
+
+# VSCode settings
+.vscode/
+.dist
+
+# macOS
+.DS_Store
+
+# Ignore pycache in src
+src/__pycache__/
+
+# Ignore pycache in tests
+tests/__pycache__/
